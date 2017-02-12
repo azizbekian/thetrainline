@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.thetrainline.enhanced.CSVReaderWriterTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2017-02-12T20:54:38" hostname="Andraniks-MacBook-Pro.local" time="0.021">
+  <properties/>
+  <testcase name="writeEnum" classname="com.thetrainline.enhanced.CSVReaderWriterTest" time="0.0"/>
+  <testcase name="readingWhenOpenNotCalled" classname="com.thetrainline.enhanced.CSVReaderWriterTest" time="0.0"/>
+  <testcase name="readEnum" classname="com.thetrainline.enhanced.CSVReaderWriterTest" time="0.0"/>
+  <testcase name="openingDoesNothing" classname="com.thetrainline.enhanced.CSVReaderWriterTest" time="0.001"/>
+  <testcase name="closingDoesNothing" classname="com.thetrainline.enhanced.CSVReaderWriterTest" time="0.001"/>
+  <testcase name="readingColumns" classname="com.thetrainline.enhanced.CSVReaderWriterTest" time="0.002"/>
+  <testcase name="readBrokenMethod" classname="com.thetrainline.enhanced.CSVReaderWriterTest" time="0.001"/>
+  <testcase name="writingColumns" classname="com.thetrainline.enhanced.CSVReaderWriterTest" time="0.001"/>
+  <testcase name="readingColumn" classname="com.thetrainline.enhanced.CSVReaderWriterTest" time="0.001"/>
+  <testcase name="writingWhenOpenNotCalled" classname="com.thetrainline.enhanced.CSVReaderWriterTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
